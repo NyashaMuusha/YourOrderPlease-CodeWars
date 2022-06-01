@@ -1,0 +1,16 @@
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease.deps.json
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease.runtimeconfig.json
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease.runtimeconfig.dev.json
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease.dll
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/ref/YourOrderPlease.dll
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/bin/Debug/net5.0/YourOrderPlease.pdb
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.csproj.AssemblyReference.cache
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.AssemblyInfoInputs.cache
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.AssemblyInfo.cs
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.csproj.CoreCompileInputs.cache
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.dll
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/ref/YourOrderPlease.dll
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.pdb
+/home/ayshan/RiderProjects/YourOrderPlease/YourOrderPlease/obj/Debug/net5.0/YourOrderPlease.genruntimeconfig.cache
